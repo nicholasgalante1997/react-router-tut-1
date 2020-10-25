@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+html, body {
+  background-image: url('https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.link {
+  font-size: 48px;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+}
+
+.link-div {
+  padding-top: 30px;
+}
+
+.title-line {
+  color: white;
+  font-size: 24px;
+  font-family: 'Oswald', sans-serif;
+  padding-top: 50px;
+}
